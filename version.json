@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "buildNumber": 1,
   "releaseDate": "2026-09-17",
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false,
-  "title": "v1.0.0 - Official Launch",
+  "title": "v1.1.0 - Multi-Tenant Portal Connectivity & Brand Icon",
   "notes": {
-    "en": "Official release for Android mobile phones.",
-    "fr": "Official release for Android mobile phones.",
-    "ar": "Official release for Android mobile phones."
+    "en": "Official release of Campus Mobile ERP with multi-tenant data scoping, deep portal navigation, direct student dossier links, responsive profile and timetable modals, and official brand logo suite.",
+    "fr": "Official release of Campus Mobile ERP with multi-tenant data scoping, deep portal navigation, direct student dossier links, responsive profile and timetable modals, and official brand logo suite.",
+    "ar": "Official release of Campus Mobile ERP with multi-tenant data scoping, deep portal navigation, direct student dossier links, responsive profile and timetable modals, and official brand logo suite."
   },
-  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/download/v1.0.0/mobile-erp.apk",
-  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/tag/v1.0.0"
+  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/download/v1.1.0/mobile-erp.apk",
+  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/tag/v1.1.0"
 }
