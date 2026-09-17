@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "releaseDate": "2026-09-17",
+  "minSupportedVersion": "1.0.0",
+  "forceUpdate": false,
+  "title": "v1.0.0 - Official Launch",
+  "notes": {
+    "en": "- Official release of Mobile ERP\n- Real-time campus attendance and sync\n- Financials, CRM, and student dossier management",
+    "fr": "- Version officielle de Mobile ERP\n- Pointage et synchronisation en temps réel\n- Gestion financière, CRM et gestion des étudiants",
+    "ar": "- الإصدار الرسمي لتطبيق إدارة المدرسة\n- تسجيل الحضور والمزامنة الفورية\n- إدارة المالية وعلاقات العملاء وشؤون الطلاب"
+  },
+  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/latest/download/mobile-erp.apk",
+  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/latest"
+}
