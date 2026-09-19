@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "buildNumber": 1,
-  "releaseDate": "2026-09-17",
+  "releaseDate": "2026-09-19",
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false,
-  "title": "v1.1.0 - Multi-Tenant Portal Connectivity & Brand Icon",
+  "title": "v1.2.0 - Faculty Payout Ledger & Desktop Teacher Parity",
   "notes": {
-    "en": "Official release of Campus Mobile ERP with multi-tenant data scoping, deep portal navigation, direct student dossier links, responsive profile and timetable modals, and official brand logo suite.",
-    "fr": "Official release of Campus Mobile ERP with multi-tenant data scoping, deep portal navigation, direct student dossier links, responsive profile and timetable modals, and official brand logo suite.",
-    "ar": "Official release of Campus Mobile ERP with multi-tenant data scoping, deep portal navigation, direct student dossier links, responsive profile and timetable modals, and official brand logo suite."
+    "en": "Official release v1.2.0: Live faculty pending payout cycles calculation engine, settled payments ledger, weekly schedule timetable, teacher scorecards, substitute instructor matching, smart ID cards, and updated finance modals.",
+    "fr": "Official release v1.2.0: Live faculty pending payout cycles calculation engine, settled payments ledger, weekly schedule timetable, teacher scorecards, substitute instructor matching, smart ID cards, and updated finance modals.",
+    "ar": "Official release v1.2.0: Live faculty pending payout cycles calculation engine, settled payments ledger, weekly schedule timetable, teacher scorecards, substitute instructor matching, smart ID cards, and updated finance modals."
   },
-  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/download/v1.1.0/mobile-erp.apk",
-  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/tag/v1.1.0"
+  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/download/v1.2.0/mobile-erp.apk",
+  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/tag/v1.2.0"
 }
