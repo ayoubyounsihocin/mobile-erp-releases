@@ -1,15 +1,15 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "buildNumber": 1,
-  "releaseDate": "2026-10-09",
+  "releaseDate": "2026-10-15",
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false,
-  "title": "v1.4.0 - Permanent Keystore, Notifications & Smart Filtering Engine",
+  "title": "v1.5.0 - Apple UI Spring Filters, Student Directory Filtering & System Resilience",
   "notes": {
-    "en": "Official release v1.4.0: Permanent keystore signature for seamless in-place APK updates, active mobile notifications, and Smart Filtering & Grouping architecture across core high-volume screens.",
-    "fr": "Official release v1.4.0: Permanent keystore signature for seamless in-place APK updates, active mobile notifications, and Smart Filtering & Grouping architecture across core high-volume screens.",
-    "ar": "Official release v1.4.0: Permanent keystore signature for seamless in-place APK updates, active mobile notifications, and Smart Filtering & Grouping architecture across core high-volume screens."
+    "en": "Official release v1.5.0: Introduces Apple-style spring animations on all filter controls and pill bars; comprehensive animated filtering & sorting on Student pages (Status, Grade, Courses, Presets); dark-mode splash screen integration; and multi-device base system resilience.",
+    "fr": "Official release v1.5.0: Introduces Apple-style spring animations on all filter controls and pill bars; comprehensive animated filtering & sorting on Student pages (Status, Grade, Courses, Presets); dark-mode splash screen integration; and multi-device base system resilience.",
+    "ar": "Official release v1.5.0: Introduces Apple-style spring animations on all filter controls and pill bars; comprehensive animated filtering & sorting on Student pages (Status, Grade, Courses, Presets); dark-mode splash screen integration; and multi-device base system resilience."
   },
-  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/download/v1.4.0/mobile-erp.apk",
-  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/tag/v1.4.0"
+  "apkDownloadUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/download/v1.5.0/mobile-erp.apk",
+  "releasePageUrl": "https://github.com/ayoubyounsihocin/mobile-erp-releases/releases/tag/v1.5.0"
 }
